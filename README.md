@@ -76,7 +76,7 @@ Telegram chanmelkayga [Khaalid](https://t.me/mohamett_updywahab) oo ah midka aan
 
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## 📝 Top Blog Posts
+## 📝 Sidoo kale waxaa igala socon kartaa
 
 -   [Frontend Testing Techniques](https://medium.com/faun/frontend-testing-techniques-71f1cfebe917)
 
@@ -90,10 +90,9 @@ Telegram chanmelkayga [Khaalid](https://t.me/mohamett_updywahab) oo ah midka aan
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=khaalidpro&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaalidpro&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
-
-view rawREADME.txt hosted with ❤ by GitHub 
+ 
